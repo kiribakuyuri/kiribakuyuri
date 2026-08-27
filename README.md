@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kiribakuyuri/kiribakuyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+${\color{#e0b577} | \space}$
+${\color{#cf1b53} \space 𝜗ৎ \space 𝖇𝖊𝖘𝖙 \space 𝖗𝖎𝖊𝖓𝖉}$
+${\color{#e0b577} \space | \space  𝔞 \space 𝔯𝔢𝔩𝔞𝔱𝔦𝔬𝔫𝔰𝔥𝔦𝔭 \space 𝔡𝔢𝔣𝔦𝔫𝔢𝔡 \space 𝔟𝔶 \space 𝔲𝔫𝔴𝔞𝔳𝔢𝔯𝔦𝔫𝔤}$
+${\color{#d85859} \space 𝔩𝔬𝔶𝔞𝔩𝔱𝔶}$
+${\color{#e0b577} , \space 𝔪𝔲𝔱𝔲𝔞𝔩}$
+${\color{#dc865d} \space 𝔯𝔢𝔰𝔭𝔢𝔠𝔱}$
+${\color{#e0b577} , \space 𝔞𝔫𝔡 \space 𝔢𝔪𝔬𝔱𝔦𝔬𝔫𝔞𝔩}$
+${\color{#d4a65e} \space 𝔰𝔞𝔣𝔢𝔱𝔶.}$
 
-Here are some ideas to get you started:
+${\space}$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="500" height="500" alt="krbkkidstintedcroppedandtexturednobg" src="https://github.com/user-attachments/assets/392b1828-4ea2-4f85-b6c3-5b25dbe87894" /> 
+
+${\space}$
+
+${\color{#dc865d} Sign}$ [atabukk۶ৎ](https://kiribaku.atabook.org/)
+
+${\space}$
+${\space}$
+${\space}$
+
+<img width="400" height="400" alt="kirkbakfromcathy" src="https://github.com/user-attachments/assets/b770be3f-babf-43c7-b18f-15579dc65a69" />
+
+${\color{#e0b577} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://github.com/obsessedgojo)
